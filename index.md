@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Jiali ZHANG's CV
 
-You can use the [editor on GitHub](https://github.com/JialiZhang1016/zhangjiali.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### RESEARCH EXPERIENCE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Application of C5.0 Decision Tree Algorithm in the Evaluation of Individual Credit Loan in China**
 
-### Markdown
+Paper established and improved an individual credit evaluation model of decision tree based on the data released by China UnionPay Merchant Services.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Analysis and Forecast on the Bidding Prices for Construction Projects**
+
+- Communicated with the person in charge of bidding projects to clarify the demands of the company 
+- Built the mathematical model based on the historical data distribution and bidding rules, programed with R software 
+- Adjusted the model parameters with the actual project data, the accuracy of the final model prediction is more than 90%
+
+**Research on the Optimization Mathematical Model of New Media Promotion Based on Netease Open Course Case**
+- Collected the user experience data of Netease Open Course APP by questionnaire 
+- Quantified various factors, and established the structural equation to get the optimized campus promotion scheme of the APP
+
+
 
 ```markdown
 Syntax highlighted code block
