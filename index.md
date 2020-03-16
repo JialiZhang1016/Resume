@@ -1,12 +1,9 @@
-## Welcome to Jiali ZHANG's CV
-
 ```markdown
 - Email: z.lily2859@gmail.com
 - Github: JialiZhang1016
 ```
 
-### RESEARCH EXPERIENCE
-***
+## RESEARCH EXPERIENCE
 
 **1. Application of C5.0 Decision Tree Algorithm in the Evaluation of Individual Credit Loan in China**
 
@@ -27,8 +24,7 @@ Project supported by the National College Students' Innovation and Entrepreneurs
 > - Collected the user experience data of Netease Open Course APP by questionnaire 
 > - Quantified various factors, and established the structural equation to get the optimized campus promotion scheme of the APP
 
-### MISCELLANEOUS
-***
+## MISCELLANEOUS
 
 - **Skills:** R, Python, MATLAB, C, SQL, SPSS
 - **Certifications:** Junior Statistician Qualification, NCRE Level-2 in C Language, NCRE Level-3 in Database 
