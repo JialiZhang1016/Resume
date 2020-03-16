@@ -25,8 +25,3 @@ Project supported by the National College Students' Innovation and Entrepreneurs
 - **Skills:** R, Python, MATLAB, C, SQL, SPSS
 - **Certifications:** Junior Statistician Qualification, NCRE Level-2 in C Language, NCRE Level-3 in Database 
 
-### Contact Information
-```markdown
-- Email: z.lily2859@gmail.com
-- Github: JialiZhang1016
-```
