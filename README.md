@@ -1,27 +1,42 @@
-# Resume
-## RESEARCH EXPERIENCE
+## [电影数据集关联规则挖掘](./电影数据集关联规则挖掘)
 
-**1. Application of C5.0 Decision Tree Algorithm in the Evaluation of Individual Credit Loan in China**
+**编程语言**：Python
 
-Paper established and improved an individual credit evaluation model of decision tree based on the data released by China UnionPay Merchant Services.
+**项目时间**：2020.08 - 2020.09
 
-**2. Analysis and Forecast on the Bidding Prices for Construction Projects**
+**主要工作**：
+使用selenium工具包写爬虫程序从豆瓣网站抓取演员“姜文”的电影以及参演的演员，然后调用mlxtend工具包中的Apriori算法分析“姜文”与其他电影演员之间的频繁项集和关联规则。
 
-Project aimed at providing decision-making support for bidding by statistical methods.
+## 基于C5.0决策树的银行个人信用风险评估模型
 
-> - Communicated with the person in charge of bidding projects to clarify the demands of the company 
-> - Built the mathematical model based on the historical data distribution and bidding rules, programed with R software 
-> - Adjusted the model parameters with the actual project data, the accuracy of the final model prediction is more than 90%
+**编程语言**：R
 
-**3. Research on the Optimization Mathematical Model of New Media Promotion Based on Netease Open Course Case**
+**项目时间**：2019.02 - 2019.05
 
-Project supported by the National College Students' Innovation and Entrepreneurship Training Program (Grant No.201710370049) 
+**项目简介**：本项目为作者本科毕业论文项目，被评为2019年学院毕业论文一等奖。
 
-> - Collected the user experience data of Netease Open Course APP by questionnaire 
-> - Quantified various factors, and established the structural equation to get the optimized campus promotion scheme of the APP
+**主要工作**：
+基于银联商务发布的 11017 条个人信用贷款数据，使用C5.0算法建立决策树评价模型，并在原模型的基础上分别利用 AdaBoost 算法和惩罚因子对其进行优化。通过比较发现，引入惩罚因子能够有效地将模型对逾期用户的误判率从93.2%降低至31.98 %。虽然总体预测正确率有所下降，但从经济效益方面看，能够切实地帮助银行控制违约风险。
 
-## MISCELLANEOUS
+## 网易公开课APP校园影响力问卷分析
 
-- **Skills:** R, Python, MATLAB, C, SQL, SPSS
-- **Certifications:** Junior Statistician Qualification, NCRE Level-2 in C Language, NCRE Level-3 in Database 
+**编程语言**：SPSS、Amos
 
+**项目时间**：2017.08 - 2019.05
+
+**项目简介**：
+- 本项目为国家级创新创业训练计划项目（批准号：201710370049）
+- 收集问卷200余份，对其做基础调研数据处理，包括问卷数据编码、可信度检验、统计分析、结构方程构建、可视化等，撰写校园影响力调研分析报告，对网易公开课APP的校园推广方案提出建议。
+
+## 工程项目投标报价博弈模型
+
+**编程语言**：R
+
+**项目时间**：2018.07 - 2018.09
+
+**项目简介**：本项目与芜湖一建筑工程公司合作，目的是根据芜湖市工程项目的：本项目与芜湖一建筑工程公司合作，目的是根据芜湖市工程项目的[竞标规则和历史竞标数据(公开信息)](https://www.ahtba.org.cn/site/resource/index), 拟定一套出价方案，提高中标概率。
+
+**主要工作**：
+- 收集、整理、清洗历史竞标数据，使用ggplot2对其进行数据探索和可视化；
+- 根据数据分布情况发现并了解其底层逻辑，结合竞标规则构建分段线性函数模型；
+- 使用蒙特卡洛方法进行模拟，与对方公司项目负责人沟通并改进模型，最终通过模型计算给出投标报价区间的建议。
